@@ -1,0 +1,1 @@
+# XMLHTTPREQUEST-method-of-server-comunication-with-API-and-the-Studio-Ghibli-data
